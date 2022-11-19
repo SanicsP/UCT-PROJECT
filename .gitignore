@@ -1,0 +1,12 @@
+#extensions à ignorer
+*.o
+*.exe 
+*.asm
+*.as
+*.dll
+
+#repertoirs à ignorer.....
+
+
+#fichiers à ignorer.....
+
