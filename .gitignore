@@ -4,7 +4,7 @@
 *.asm
 *.as
 *.dll
-
+*.ini
 #repertoirs à ignorer.....
 
 
